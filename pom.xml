@@ -4,9 +4,9 @@
 
   <groupId>org.example</groupId>
   <artifactId>CoinServerConnector</artifactId>
-  <version>master-SNAPSHOT</version>
+  <version>1.0.1</version>
   <name>CoinServerConnector</name>
-  <description>CoinServer</description>
+  <description>CoinServerConnector</description>
 
   <packaging>jar</packaging>
 
