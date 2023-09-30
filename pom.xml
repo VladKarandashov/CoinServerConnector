@@ -4,7 +4,7 @@
 
   <groupId>com.coinserver.api</groupId>
   <artifactId>CoinServerConnector</artifactId>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
   <name>CoinServerConnector</name>
   <description>CoinServerConnector</description>
 
